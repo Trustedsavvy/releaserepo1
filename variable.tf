@@ -1,3 +1,3 @@
 variable "rgname" {}
-variable "location" {}
+variable "loc" {}
 variable "pipname" {}
